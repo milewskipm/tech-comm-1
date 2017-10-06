@@ -27,6 +27,11 @@ Nagłówek drugiego poziomu
 ### Cytaty <!---  -->
 
 ### Emfaza fragmentów tekstu <!---  -->
+Część tego tekstu *jest wyróżniona*.
+Część tego tekstu _też jest wyróżniona_.
+
+Użyj dwóch asterysków do **mocnego wyróżnienia**.
+Lub, jeśli wolisz, __użyj dwóch podkreślników__.
 
 ### Listy punktowane <!---  -->
 
