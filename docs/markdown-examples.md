@@ -27,6 +27,14 @@ Nagłówek drugiego poziomu
 ### Cytaty <!---  -->
 
 ### Emfaza fragmentów tekstu <!---  -->
+'''
+markdown
+Tak wygłąda *wyróżnienie*.
+A tak wygląda _inne wyróżnienie_.
+
+Możemy też wyrónić coś  **bardzo**.
+Stosując różne, __metody__.
+'''
 
 Tak wygłąda *wyróżnienie*.
 A tak wygląda _inne wyróżnienie_.
