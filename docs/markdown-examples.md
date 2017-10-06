@@ -27,11 +27,11 @@ Nagłówek drugiego poziomu
 ### Cytaty <!---  -->
 
 ### Emfaza fragmentów tekstu <!---  -->
-Część tego tekstu *jest wyróżniona*.
-Część tego tekstu _też jest wyróżniona_.
+Tak wygłąda *wyróżnienie*.
+Albo tak wygląda _inne wyróżnionienie_.
 
-Użyj dwóch asterysków do **mocnego wyróżnienia**.
-Lub, jeśli wolisz, __użyj dwóch podkreślników__.
+Możemy też wyrónić coś  **bardzo**.
+Stosując różne, __metody__.
 
 ### Listy punktowane <!---  -->
 
