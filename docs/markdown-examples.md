@@ -43,6 +43,21 @@ Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków ">"
 ### Listy punktowane <!---  -->
 
 ### Listy numerowane <!---  -->
+Lista numerowana korzysta z liczb zakończonych kropką, jako znaczników listy:
+#### Składnia
+```mardown
+1.  Czerwony
+2.  Zielony
+3.  Niebieski
+```
+#### Wynik
+```html
+<ol>
+<li>Czerwony</li>
+<li>Zielony</li>
+<li>Niebieski</li>
+</ol>
+````
 
 ### Linki "w tekście" <!---  -->
 
