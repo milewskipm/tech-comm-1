@@ -28,7 +28,7 @@ Nagłówek drugiego poziomu
 
 ### Emfaza fragmentów tekstu <!---  -->
 Tak wygłąda *wyróżnienie*.
-Albo tak wygląda _inne wyróżnionienie_.
+Albo tak wygląda _inne wyróżnienie_.
 
 Możemy też wyrónić coś  **bardzo**.
 Stosując różne, __metody__.
