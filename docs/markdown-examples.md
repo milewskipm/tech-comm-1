@@ -18,13 +18,25 @@ Nagłówek drugiego poziomu
 #### Wynik
 ```html
 <h1>Nagłówek pierwszego poziomu</h1>
-
 <h2>Nagłówek drugiego poziomu</h2>
-````
+```
 
-### Nagłówki (atx) <!---  -->
+### Nagłówki (atx)
 
-### Cytaty <!---  -->
+### Cytaty
+Bloki cytatów są oznaczane przez użycie zapożyczonych z e-maili znaków ">"
+
+#### Składnia
+```markdown
+> To jest blok cytatu zapisany w notacji markdown.
+> To jest drugi akapit w bloku cytatu zapisany w notacji markdown.
+```
+#### Wynik
+```html
+<p>To jest blok cytatu zapisany w html.</p>
+<p>To jest drugi akapit w bloku cytatu zapisany w html.</p>
+```
+
 
 ### Emfaza fragmentów tekstu <!---  -->
 
