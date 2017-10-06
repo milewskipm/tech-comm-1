@@ -1,3 +1,3 @@
 title: Dokumentacja
 description: Szkolenie tworzenia dokumentacji
-theme: jekyll-theme-default.html
+theme: tech-comm-1/docs/_layout/default.html
